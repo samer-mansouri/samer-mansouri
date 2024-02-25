@@ -15,13 +15,13 @@ I'm a Software Engineering Student at the National Institute of Applied Science 
 
 ## 💬 Ask me about
 
-- Web Development (React, Node.js, Express, MongoDB)
+- Web Development 
 - My journey as a Software Engineering student
 - Tips on managing college and coding
 
 ## 📫 How to reach me:
 
-- LinkedIn: [Your LinkedIn](https://tn.linkedin.com/in/samer-mansouri)
+- LinkedIn: [Samer Mansouri](https://tn.linkedin.com/in/samer-mansouri)
 - Email: samermns24@gmail.com
 
 ## ⚡ Fun fact:
