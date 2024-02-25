@@ -21,7 +21,7 @@ I'm a Software Engineering Student at the National Institute of Applied Science 
 ## 📫 How to reach me:
 
 - LinkedIn: [Your LinkedIn](https://tn.linkedin.com/in/samer-mansouri)
-- Email: your.email@example.com
+- Email: samermns24@gmail.com
 
 ## ⚡ Fun fact:
 
