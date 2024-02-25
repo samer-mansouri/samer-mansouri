@@ -4,6 +4,7 @@ I'm a Software Engineering Student at the National Institute of Applied Science 
 
 ## 📚 Education
 
+- **Bachelor's Degree in Computer Sciences**
 - **Software Engineering Student** at INSAT (National Institute of Applied Science and Technology)
 
 ## 🌱 I’m currently learning
