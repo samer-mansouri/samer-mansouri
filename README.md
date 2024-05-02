@@ -57,7 +57,7 @@ I'm a Software Engineering Student at the National Institute of Applied Science 
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?&logo=fastapi&logoColor=white)
-
+![NestJS](https://img.shields.io/badge/-NestJS-e0234e?logo=nestjs&logoColor=white)
 
 ### Database Technologies
 
