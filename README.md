@@ -7,26 +7,10 @@ I'm a Software Engineering Student at the National Institute of Applied Science 
 - **Bachelor's Degree in Computer Sciences**
 - **Software Engineering Student** at INSAT (National Institute of Applied Science and Technology)
 
-## 🌱 I’m currently learning
-
-- Full Stack Web Development
-- Cloud Computing and DevOps
-
-
-## 💬 Ask me about
-
-- Web Development 
-- My journey as a Software Engineering student
-- Tips on managing college and coding
-
 ## 📫 How to reach me:
 
 - LinkedIn: [Samer Mansouri](https://tn.linkedin.com/in/samer-mansouri)
 - Email: samermns24@gmail.com
-
-## ⚡ Fun fact:
-
-- I'm passionate about exploring new technologies and applying them in real-world projects. In my free time, I enjoy reading posts and blogs about the latest tech trends and innovations to stay ahead in the fast-paced tech landscape.
 
 ---
 
@@ -74,5 +58,3 @@ I'm a Software Engineering Student at the National Institute of Applied Science 
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=gitlab)
 
 
-
-Feel free to explore my repositories and let's connect to build something amazing together!
